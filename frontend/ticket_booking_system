@@ -1,0 +1,60 @@
+{
+  "shows": [
+    {
+      "id": 7,
+      "name": "Morning Bus B",
+      "start_time": "2025-12-11T20:30:00.000Z",
+      "total_seats": 30,
+      "available_seats": 23
+    },
+    {
+      "id": 8,
+      "name": "Evening Bus A",
+      "start_time": "2025-12-11T20:30:00.000Z",
+      "total_seats": 30,
+      "available_seats": 29
+    },
+    {
+      "id": 9,
+      "name": "Night Bus C",
+      "start_time": "2025-12-11T20:30:00.000Z",
+      "total_seats": 50,
+      "available_seats": 48
+    },
+    {
+      "id": 3,
+      "name": "Morning Bus A",
+      "start_time": "2025-12-12T02:00:00.000Z",
+      "total_seats": 40,
+      "available_seats": 40
+    },
+    {
+      "id": 5,
+      "name": "South-Indian: KGF",
+      "start_time": "2025-12-14T23:00:00.000Z",
+      "total_seats": 100,
+      "available_seats": 94
+    },
+    {
+      "id": 6,
+      "name": "South-Indian: KGF-chapter-2",
+      "start_time": "2025-12-14T23:00:00.000Z",
+      "total_seats": 100,
+      "available_seats": 100
+    },
+    {
+      "id": 4,
+      "name": "South-Indian: Kantara",
+      "start_time": "2025-12-14T23:00:00.000Z",
+      "total_seats": 100,
+      "available_seats": 96
+    },
+    {
+      "id": 2,
+      "name": "Avengers: The Endgame",
+      "start_time": "2025-12-15T04:30:00.000Z",
+      "total_seats": 100,
+      "available_seats": 100
+    }
+  ]
+}
